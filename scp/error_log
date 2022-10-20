@@ -1,0 +1,40 @@
+[05-Aug-2022 21:21:07 UTC] PHP Fatal error:  Uncaught InconsistentModelException: Unable to prepare query: MySQL server has gone away SELECT A1.* FROM `os_email` A1 WHERE A1.`email_id` = '2' in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php:3469
+Stack trace:
+#0 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(3515): MySqlExecutor->execute()
+#1 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2001): MySqlExecutor->getArray()
+#2 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2045): ModelInstanceManager->{closure}()
+#3 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2024): CallbackSimpleIterator->next()
+#4 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2033): CallbackSimpleIterator->rewind()
+#5 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(1704): Call in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php on line 3469
+[05-Aug-2022 21:33:47 UTC] PHP Fatal error:  Uncaught InconsistentModelException: Unable to prepare query: MySQL server has gone away SELECT A1.* FROM `os_email` A1 WHERE A1.`email_id` = '2' in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php:3469
+Stack trace:
+#0 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(3515): MySqlExecutor->execute()
+#1 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2001): MySqlExecutor->getArray()
+#2 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2045): ModelInstanceManager->{closure}()
+#3 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2024): CallbackSimpleIterator->next()
+#4 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2033): CallbackSimpleIterator->rewind()
+#5 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(1704): Call in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php on line 3469
+[05-Aug-2022 21:35:53 UTC] PHP Fatal error:  Uncaught InconsistentModelException: Unable to prepare query: MySQL server has gone away SELECT A1.* FROM `os_email` A1 WHERE A1.`email_id` = '2' in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php:3469
+Stack trace:
+#0 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(3515): MySqlExecutor->execute()
+#1 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2001): MySqlExecutor->getArray()
+#2 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2045): ModelInstanceManager->{closure}()
+#3 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2024): CallbackSimpleIterator->next()
+#4 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2033): CallbackSimpleIterator->rewind()
+#5 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(1704): Call in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php on line 3469
+[08-Aug-2022 16:10:09 UTC] PHP Fatal error:  Uncaught InconsistentModelException: Unable to prepare query: MySQL server has gone away SELECT A1.* FROM `os_email` A1 WHERE A1.`email_id` = '2' in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php:3469
+Stack trace:
+#0 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(3515): MySqlExecutor->execute()
+#1 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2001): MySqlExecutor->getArray()
+#2 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2045): ModelInstanceManager->{closure}()
+#3 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2024): CallbackSimpleIterator->next()
+#4 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2033): CallbackSimpleIterator->rewind()
+#5 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(1704): Call in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php on line 3469
+[08-Aug-2022 16:15:46 UTC] PHP Fatal error:  Uncaught InconsistentModelException: Unable to prepare query: MySQL server has gone away SELECT A1.* FROM `os_email` A1 WHERE A1.`email_id` = '2' in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php:3469
+Stack trace:
+#0 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(3515): MySqlExecutor->execute()
+#1 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2001): MySqlExecutor->getArray()
+#2 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2045): ModelInstanceManager->{closure}()
+#3 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2024): CallbackSimpleIterator->next()
+#4 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(2033): CallbackSimpleIterator->rewind()
+#5 /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php(1704): Call in /home/f7s72z0es1zi/public_html/grupolitoralticketit.digital/os-Ticket/include/class.orm.php on line 3469
